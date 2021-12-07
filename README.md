@@ -9,3 +9,4 @@ sznia
 hello
  main
  main
+fni
